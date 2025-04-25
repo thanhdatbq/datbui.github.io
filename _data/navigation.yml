@@ -26,7 +26,5 @@ main:
   # - title: "Guide"
   #   url: /markdown/
  
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "GitHub"
     url: "https://thanhdatbq.github.io/datbui.github.io/"
