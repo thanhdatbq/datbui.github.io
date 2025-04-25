@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -46,4 +46,23 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+---
+layout: home
+permalink: /
+title: "My Portfolio"
+---
+
+Hi, I’m Dat Bui, a senior majoring in Computer Science with a passion for designing and building modern web and software solutions.
+
+### Skills
+
+- **Languages:** C++  
+- **Web Development:** JavaScript, HTML, CSS, PHP, NodeJS, JQuery
+- **Frameworks & Libraries:** Flask, React  
+- **Databases:** SQL (MySQL, PostgreSQL)
+
+I enjoy working on full-stack applications, tackling challenging algorithms, and continually learning new technologies.  
+Feel free to check out my code on [GitHub](https://thanhdatbq.github.io/datbui.github.io/).
+
